@@ -1,0 +1,4 @@
+interface IPulsable 
+{
+    bool EstaPulsado();
+}
